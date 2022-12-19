@@ -9,7 +9,7 @@ I've found a passion for Cloud computing and Rust language, and I'm keeping to d
 
 *   🌍  I'm based in Lisbon
 *   ✉️  You can contact me at [vinsie@protonmail.com](mailto:vinsie@protonmail.com)
-*   🧠  I'm learning Bash, Docker, Kubernetes, AWS, Terraform and Rust
+*   🧠  I'm learning Bash,Rust, Docker, Kubernetes, AWS and Terraform
 *   🤝  I'm open to collaborating on Cloud computing, Rust and Quantum computing projects
 
 ### Skills 
