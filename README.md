@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vincent Eckert Sierota
 =======================================================================================================================================
 
-Cloud & System engineer
+DevOps engineer
 ------------------------
 
 I have been working with Microsoft Dynamics ERP for 11 years.</br>
-I've found a passion for Cloud computing and Rust language, and I'm keeping to develop my skills and my practice in order to switching my career.
+I've found a passion for DevOps and Rust, and I'm keeping to develop my skills and my practice in order to switching my career.
 
 *   🌍  I'm based in Lisbon
 *   ✉️  You can contact me at [vinsie@protonmail.com](mailto:vinsie@protonmail.com)
