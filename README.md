@@ -23,7 +23,7 @@ I've found a passion for DevOps and Rust, and I'm keeping to develop my skills a
 ### Socials
 <p align="left">                                                  
 <a href="https://www.github.com/vinsie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>                          
-<a href="https://www.linkedin.com/in/vincent-sierota-926828bb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>     
+<a href="https://www.linkedin.com/in/vincent-eckert-sierota-926828bb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>     
 <a href="https://discord.com/users/VincentEckSie#8019" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  
 <a href="http://www.medium.com/@vinsie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
 </p>
