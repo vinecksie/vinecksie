@@ -30,7 +30,7 @@ I've found a passion for DevOps engineering, and I'm keeping to develop my skill
 <a href="https://discord.com/users/VincentEckSie#8019" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  
 <a href="http://www.medium.com/@vinsie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
 </p>
-
+ 
 <b>My GitHub Stats</b>
 <p align="left"> 
 <a href="http://www.github.com/vinecksie"><img src="https://github-readme-stats.vercel.app/api?username=vinecksie&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vinecksie's GitHub stats" /></a>
