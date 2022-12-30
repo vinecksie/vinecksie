@@ -14,6 +14,7 @@ I've found a passion for DevOps engineering, and I'm keeping to develop my skill
 *   🧠  I'm learning Linux, Bash, Python, Docker, Kubernetes, AWS, Terraform
 *   🤝  I'm open to collaborating on cloud computing projects
 * ⚡  I'm an expert in worldwide investment (crowdlending, crowdfunding)
+* 🖥️ [My Resume](http://https://github.com/vinecksie/vinecksie/blob/main/Resume.pdf)
 
 ### Skills 
 <p align="left">
