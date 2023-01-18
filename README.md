@@ -13,7 +13,6 @@ I've found a passion for DevOps engineering, and I'm keeping to develop my skill
 *   ✉️  You can contact me at [vinecksie@protonmail.ch](mailto:vinecksie@protonmail.ch)
 *   🧠 I'm learning Linux system, Bash, Python, Containers, Cloud, IaC (Terraform), CI/CD (Jenkins, Gitlab), and more
 * ⚡  I'm an expert in worldwide investment (crowdlending, crowdfunding)
-* 🖥️ [My resume](https://github.com/vinecksie/vinecksie/blob/main/Resume.pdf)
 
 ### Skills 
 <p align="left">
