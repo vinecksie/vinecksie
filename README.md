@@ -18,7 +18,6 @@ I've found a passion for DevOps engineering, and I'm keeping to develop my skill
 <p align="left">
  <a href="https://linuxmint.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="36" height="36" alt="Linux" /></a>
 <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html" target="_blank" rel="noreferrer"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" width="36" height="36" alt="Bash" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 </p>
 
  
