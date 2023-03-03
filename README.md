@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps Engineer
 ------------------------
 
-I have been working with Microsoft Dynamics ERP for 11 years.</br>
-I've found a passion for DevOps engineering, and I'm keeping to develop my skills and my practice in order to switching my career.
+<!--I have been working with Microsoft Dynamics ERP for 11 years.</br>
+I've found a passion for DevOps engineering, and I'm keeping to develop my skills and my practice in order to switching my career.-->
 
 *   🌍  I'm based in Salzburg ![austria (1)](https://user-images.githubusercontent.com/94926406/222736836-149f065b-d504-45ca-9326-d54f87b168a2.png)
 *   🌍  I speak ![france](https://user-images.githubusercontent.com/94926406/208912960-f05eb9b0-0a85-4f92-87f1-20a51b75b3ce.png)
